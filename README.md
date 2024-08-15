@@ -1,2 +1,1 @@
-# NYU-Cyber-Fellows-Portfolio
-Collection of graduate school projects completed for Master's degree in Cybersecurity at the Tandon Graduate School of Engineering at New York University.
+Assignments for "Applied Cryptography" course in the New York University Masters of Science in the Cybersecurity program, Spring 2022.
