@@ -1,0 +1,7 @@
+ollama
+#Insructions
+#Install Ollama
+#Go to https://ollama.com/download and install it (Mac/Windows/Linux).
+#Download a model (run once in your terminal):
+#ollama pull llama3.1:8b
+#Slower computer, use llama3.2:3b
