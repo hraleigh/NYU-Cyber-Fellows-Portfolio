@@ -1,0 +1,24 @@
+# AI Model Extraction & Adversarial Distillation Research
+**Independent Postgraduate Study** — May/June 2026
+
+**Project Goal**: Simulate real-world adversarial attempts to steal training data or distill frontier model capabilities through large-scale prompt engineering.
+
+This project demonstrates the exact proactive threat hunting and tooling development performed by Technical Threat Investigators at frontier AI companies like OpenAI.
+
+### What I Built
+- Custom Python prompt-fuzzing tool that runs entirely locally using Ollama
+- 100+ intelligently mutated prompts designed to extract memorized training data
+- Automated analysis and logging of model responses
+- Full investigative workflow: seed → mutation → execution → documentation
+
+### Tools & Environment
+- Ollama + llama3.1:8b (local open-source model)
+- Custom mutation logic for model extraction attacks
+
+**Skills**:
+- Adversarial thinking and proactive threat hunting
+- Building investigative tooling and automation scripts
+- Analyzing model behavior for memorization and extraction risks
+- Documenting findings for technical and executive stakeholders
+
+Full code, results, and analysis are in this folder.
